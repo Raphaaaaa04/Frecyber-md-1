@@ -39,7 +39,7 @@ smd(
     filename: __filename,
   },
   async (message) => {
-    const SupportMsg = `VENOCYBER 𝐌𝐃 𝐎𝐅𝐅𝐈𝐂𝐀𝐋 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏\n\n *ʟɪɴᴋ:*https://chat.whatsapp.com/HSln3blDuuuKvC8njxyCCN \n\n ${Config.botname} *WORKS*`;
+    const SupportMsg = `VENOCYBER 𝐌𝐃 𝐎𝐅𝐅𝐈𝐂𝐀𝐋 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏\n\n *ʟɪɴᴋ:*https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f \n\n ${Config.botname} *WORKS*`;
 
     const contextInfo = {
       forwardingScore: 999,
